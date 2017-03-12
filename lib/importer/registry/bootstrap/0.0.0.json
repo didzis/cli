@@ -4,6 +4,7 @@
     "path": "../node_modules/bootstrap/dist",
     "main": "js/bootstrap.min",
     "deps": ["jquery"],
-    "exports": "$"
+    "exports": "$",
+    "resources": ["css/bootstrap-theme.min.css","css/bootstrap.min.css"]
   }]
 }
